@@ -4,5 +4,7 @@ using namespace std;
 int main()
 {
 	cout << "Hello this is a Demo for Git and Github";
-	return 0;
+	int id;
+	cin >> id;
+		return 0;
 }
